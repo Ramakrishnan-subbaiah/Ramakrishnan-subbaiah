@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android and Frontend Web-Developer</h3>
 
 
-- 🔭 I’m currently working on **Weather-App**
+- 🔭 I’m currently working on **Mini Projects related to Data Engineering**
 
 - 🌱 I’m currently learning **Python Programming Language**
 
