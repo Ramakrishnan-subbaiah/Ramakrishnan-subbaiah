@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramakrishnan</h1>
-<h3 align="center">A passionate Android and Frontend Web-Developer</h3>
+<h3 align="center">A Passionate Software engineer</h3>
 
 
 - 🔭 I’m currently working on **Mini Projects related to Data Engineering**
